@@ -1,0 +1,70 @@
+CRITICAL - 2025-01-30 02:07:17 --> ErrorException: Array to string conversion
+[Method: GET, Route: api/getAllInvoice]
+in APPPATH\Controllers\api.php on line 141.
+ 1 APPPATH\Controllers\api.php(141): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\qb-apis\\app\\Controllers\\api.php', 141)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\api->getAllInvoice()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-30 02:08:02 --> ErrorException: Undefined array key "QueryResponse"
+[Method: GET, Route: api/getAllcheques]
+in APPPATH\Controllers\api.php on line 72.
+ 1 APPPATH\Controllers\api.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "QueryResponse"', 'C:\\xampp\\htdocs\\qb-apis\\app\\Controllers\\api.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\api->getAllCheques()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-30 02:08:47 --> ErrorException: Undefined array key "QueryResponse"
+[Method: GET, Route: api/getAllcheques]
+in APPPATH\Controllers\api.php on line 72.
+ 1 APPPATH\Controllers\api.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "QueryResponse"', 'C:\\xampp\\htdocs\\qb-apis\\app\\Controllers\\api.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\api->getAllCheques()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-30 02:09:26 --> ErrorException: Undefined array key "QueryResponse"
+[Method: GET, Route: api/getAllcheques]
+in APPPATH\Controllers\api.php on line 72.
+ 1 APPPATH\Controllers\api.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "QueryResponse"', 'C:\\xampp\\htdocs\\qb-apis\\app\\Controllers\\api.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\api->getAllCheques()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-30 02:11:14 --> ErrorException: Undefined array key "QueryResponse"
+[Method: GET, Route: api/getAllcheques]
+in APPPATH\Controllers\api.php on line 74.
+ 1 APPPATH\Controllers\api.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "QueryResponse"', 'C:\\xampp\\htdocs\\qb-apis\\app\\Controllers\\api.php', 74)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\api->getAllCheques()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-30 02:11:19 --> ErrorException: Undefined array key "QueryResponse"
+[Method: GET, Route: api/getAllcheques]
+in APPPATH\Controllers\api.php on line 74.
+ 1 APPPATH\Controllers\api.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "QueryResponse"', 'C:\\xampp\\htdocs\\qb-apis\\app\\Controllers\\api.php', 74)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\api->getAllCheques()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-30 02:14:53 --> ErrorException: Undefined array key "QueryResponse"
+[Method: GET, Route: api/getAllcheques]
+in APPPATH\Controllers\api.php on line 73.
+ 1 APPPATH\Controllers\api.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "QueryResponse"', 'C:\\xampp\\htdocs\\qb-apis\\app\\Controllers\\api.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\api->getAllCheques()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
